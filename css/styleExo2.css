@@ -1,0 +1,17 @@
+.boxHaut{
+    width: 200px;
+    height: 200px;
+}
+
+.box1{
+   background: rgb(68, 99, 87);
+}
+.box2{
+   background: rgb(123, 41, 42);
+}
+.box3{
+   background: rgb(61, 213, 47);
+}
+.box4{
+   background: rgb(207, 204, 36);
+}
