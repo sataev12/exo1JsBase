@@ -1,0 +1,21 @@
+body{
+    height: 100vh;
+    background-color: rgb(224, 220, 220);
+}
+
+.boxCitation{
+    background-color: white;
+    border-radius: 10px;
+    border-radius: 15px;
+    display: flex;
+    padding: 1em;
+    justify-content: center;
+}
+
+.containerBoxs {
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+    align-items: center;
+}
+
