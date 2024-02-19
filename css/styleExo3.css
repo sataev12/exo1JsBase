@@ -1,0 +1,16 @@
+.container-cube{
+    display: grid;
+    grid-template-columns: repeat(2, 0fr);
+    justify-content: center;
+    gap: 1em;
+
+}
+.cube{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    transition: transform 1.5s;
+}
